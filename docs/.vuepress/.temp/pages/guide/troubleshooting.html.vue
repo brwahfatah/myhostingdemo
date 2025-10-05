@@ -1,0 +1,29 @@
+<template><div><h1 id="troubleshooting" tabindex="-1"><a class="header-anchor" href="#troubleshooting"><span>Troubleshooting</span></a></h1>
+<p>Encountering issues? Use these quick solutions to resolve common problems and get your site back online.</p>
+<hr>
+<h2 id="website-not-loading" tabindex="-1"><a class="header-anchor" href="#website-not-loading"><span>Website Not Loading</span></a></h2>
+<ul>
+<li><strong>DNS Check:</strong> Ensure your domain’s DNS records are correctly configured and pointing to our servers.</li>
+<li><strong>Account Status:</strong> Verify that your hosting plan is active and not expired.</li>
+<li><strong>Server Status:</strong> Check for any ongoing maintenance or outages via your dashboard notifications.</li>
+</ul>
+<hr>
+<h2 id="database-connection-error" tabindex="-1"><a class="header-anchor" href="#database-connection-error"><span>Database Connection Error</span></a></h2>
+<ul>
+<li><strong>Credentials:</strong> Double-check your database username, password, and host in your application settings.</li>
+<li><strong>Service Status:</strong> Make sure your database service is running and accessible.</li>
+<li><strong>Firewall Settings:</strong> Confirm that your firewall allows connections to the database port.</li>
+</ul>
+<hr>
+<h2 id="ssl-issues" tabindex="-1"><a class="header-anchor" href="#ssl-issues"><span>SSL Issues</span></a></h2>
+<ul>
+<li><strong>Certificate Installation:</strong> Confirm your SSL certificate is properly installed via the dashboard.</li>
+<li><strong>Browser Cache:</strong> Clear your browser cache and cookies, then reload your site.</li>
+<li><strong>Renewal:</strong> Check that your SSL certificate hasn’t expired and renew if necessary.</li>
+</ul>
+<hr>
+<h2 id="still-need-help" tabindex="-1"><a class="header-anchor" href="#still-need-help"><span>Still Need Help?</span></a></h2>
+<p>If you’re unable to resolve the issue, contact our support team at <strong>support@yourhost.com</strong> or visit the <a href="https://example.com/support" target="_blank" rel="noopener noreferrer">Support Center</a> for expert assistance.</p>
+</div></template>
+
+
